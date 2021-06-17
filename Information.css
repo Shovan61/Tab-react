@@ -1,0 +1,18 @@
+.bar {
+    border: none;
+    border-left: 2px solid #3bce96;
+    height: 24px;
+    opacity: 0;
+}
+
+.bar.show {
+    opacity: 1;
+}
+
+.htwo {
+    color: black;
+}
+
+.htwo.show {
+    color: #3bce96;
+}
